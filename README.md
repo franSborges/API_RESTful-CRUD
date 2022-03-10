@@ -1,7 +1,7 @@
 
 # API RESTful 
 
-Uma simples API RESTful utilizando banco de dados noSQL MongoDB, onde é realizado um CRUD com Node.js, Express.js e Mongoose, com
+Uma simples API RESTful utilizando banco de dados noSQL MongoDB Atlas na nuvem, onde é realizado um CRUD com Node.js, Express.js e Mongoose, com
 as seguintes funcionalidades abaixo.
 ## Features
 
