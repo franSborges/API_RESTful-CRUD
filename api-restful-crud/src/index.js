@@ -26,7 +26,7 @@ mongoose
     `mongodb+srv://${USER_DATABASE}:${PASSWORD_DATABASE}@apicluster.e6yus.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
   )
   .then(() => {
-    console.log('Conectamos com o Banco');
+    console.log('connected');
     app.listen(8000);
   })
   .catch(err => {
